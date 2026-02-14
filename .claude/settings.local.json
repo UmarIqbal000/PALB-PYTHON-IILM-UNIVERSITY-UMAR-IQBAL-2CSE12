@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python 01.py)",
+      "Bash(python \"IN CLASS/02.py\")",
+      "Bash(python \"TAKE HOME/01.py\")",
+      "Bash(python \"TAKE HOME/02.py\")",
+      "Bash(python \"TAKE HOME/03.py\")",
+      "Bash(python \"19-02-2026 to 25-02-2026/03.py\")",
+      "Bash(git init)"
+    ]
+  }
+}
