@@ -1,0 +1,1 @@
+# User have create two methods deposite and wothdraw in a class account for various objects
